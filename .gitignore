@@ -1,0 +1,8 @@
+# nothing here is build output — this is a plain static site, so almost
+# everything ships. Only local/tooling noise is ignored.
+_preview/
+.DS_Store
+Thumbs.db
+*.log
+.wrangler/
+node_modules/
